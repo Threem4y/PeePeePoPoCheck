@@ -1,0 +1,15 @@
+D:\VS проекты\Tortling\Tortling\bin\Debug\net6.0\Tortling.exe
+D:\VS проекты\Tortling\Tortling\bin\Debug\net6.0\Tortling.deps.json
+D:\VS проекты\Tortling\Tortling\bin\Debug\net6.0\Tortling.runtimeconfig.json
+D:\VS проекты\Tortling\Tortling\bin\Debug\net6.0\Tortling.dll
+D:\VS проекты\Tortling\Tortling\bin\Debug\net6.0\Tortling.pdb
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.csproj.AssemblyReference.cache
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.AssemblyInfoInputs.cache
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.AssemblyInfo.cs
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.csproj.CoreCompileInputs.cache
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.dll
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\refint\Tortling.dll
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.pdb
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\Tortling.genruntimeconfig.cache
+D:\VS проекты\Tortling\Tortling\obj\Debug\net6.0\ref\Tortling.dll
